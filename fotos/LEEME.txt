@@ -1,3 +1,3 @@
-Pon aquí las fotos con estos nombres: 1.jpg, 2.jpg, 3.jpg, 4.jpg
-(una por capítulo). Mejor si son verticales. Si falta alguna, la página
-muestra un dibujito en su lugar.
+Aquí van las fotos (máximo 4, una por capítulo).
+Después de subirlas, escribe su nombre exacto en index.html, en la parte
+"foto:" de cada capítulo. Ejemplo:  foto: "fotos/nosotras-2018.jpg"
