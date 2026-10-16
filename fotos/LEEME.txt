@@ -1,0 +1,3 @@
+Pon aquí las fotos con estos nombres: 1.jpg, 2.jpg, 3.jpg, 4.jpg
+(una por capítulo). Mejor si son verticales. Si falta alguna, la página
+muestra un dibujito en su lugar.
